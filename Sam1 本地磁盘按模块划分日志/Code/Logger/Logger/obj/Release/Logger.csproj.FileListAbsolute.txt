@@ -1,0 +1,17 @@
+F:\OneDrive\开源项目\Logger\Logger\bin\Release\Logger.dll
+F:\OneDrive\开源项目\Logger\Logger\bin\Release\Logger.pdb
+F:\OneDrive\开源项目\Logger\Logger\bin\Release\NLog.dll
+F:\OneDrive\开源项目\Logger\Logger\bin\Release\NLog.xml
+F:\OneDrive\开源项目\Logger\Logger\obj\Release\Logger.csproj.CoreCompileInputs.cache
+F:\OneDrive\开源项目\Logger\Logger\obj\Release\Logger.csproj.CopyComplete
+F:\OneDrive\开源项目\Logger\Logger\obj\Release\Logger.dll
+F:\OneDrive\开源项目\Logger\Logger\obj\Release\Logger.pdb
+C:\Users\Administrator\Desktop\Logger\Code\Logger\Logger\bin\Release\Logger.dll
+C:\Users\Administrator\Desktop\Logger\Code\Logger\Logger\bin\Release\Logger.pdb
+C:\Users\Administrator\Desktop\Logger\Code\Logger\Logger\bin\Release\NLog.dll
+C:\Users\Administrator\Desktop\Logger\Code\Logger\Logger\obj\Release\Logger.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Logger\Code\Logger\Logger\obj\Release\Logger.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Logger\Code\Logger\Logger\obj\Release\Logger.dll
+C:\Users\Administrator\Desktop\Logger\Code\Logger\Logger\obj\Release\Logger.pdb
+C:\Users\Administrator\Desktop\Logger\Code\Logger\Logger\bin\Release\NLog.config
+C:\Users\Administrator\Desktop\Logger\Code\Logger\Logger\obj\Release\Logger.csprojAssemblyReference.cache

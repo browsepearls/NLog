@@ -1,0 +1,10 @@
+F:\OneDrive\开源项目\Logger\Logger\obj\Debug\Logger.csprojAssemblyReference.cache
+F:\OneDrive\开源项目\Logger\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Logger\Code\Logger\Logger\bin\Debug\Logger.dll
+C:\Users\Administrator\Desktop\Logger\Code\Logger\Logger\bin\Debug\Logger.pdb
+C:\Users\Administrator\Desktop\Logger\Code\Logger\Logger\bin\Debug\NLog.dll
+C:\Users\Administrator\Desktop\Logger\Code\Logger\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Logger\Code\Logger\Logger\obj\Debug\Logger.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Logger\Code\Logger\Logger\obj\Debug\Logger.dll
+C:\Users\Administrator\Desktop\Logger\Code\Logger\Logger\obj\Debug\Logger.pdb
+C:\Users\Administrator\Desktop\Logger\Code\Logger\Logger\bin\Debug\NLog.config
